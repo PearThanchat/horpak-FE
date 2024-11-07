@@ -1,0 +1,19 @@
+body {
+  font-family: 'Noto Sans Thai';
+  font-size: 18px;
+}
+
+.device-max-size {
+  max-width: auto;
+  margin: auto;
+}
+
+.default-padding-y {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.default-padding-y-10 {
+  padding-left: 10%;
+  padding-right: 10%;
+}
